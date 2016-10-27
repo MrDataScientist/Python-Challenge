@@ -37,11 +37,3 @@ while True:
         tail = middle - 1
     else:
         head = middle + 1
-
-    
-
-
-# In[ ]:
-
-
-
