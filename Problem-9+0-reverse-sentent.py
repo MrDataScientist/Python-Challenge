@@ -24,9 +24,3 @@ for word in reversed(words):
     reverted_sentent = reverted_sentent + word + " "
     
 print(reverted_sentent)
-
-
-# In[ ]:
-
-
-
