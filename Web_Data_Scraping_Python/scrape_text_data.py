@@ -29,3 +29,7 @@ soup = BeautifulSoup(html_doc, 'lxml')
 p = soup.find('p')
 
 print p.text
+
+a = soup.find('a')
+
+print a.text
