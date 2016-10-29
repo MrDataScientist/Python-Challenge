@@ -24,4 +24,8 @@ html_doc = """
 </html>
 """
 
+soup = BeautifulSoup(html_doc, 'lxml')
 
+p = soup.find('p')
+
+print p.text
