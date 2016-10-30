@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # Problem 6 : Divisors
@@ -25,8 +24,4 @@ for number in range (1, int(math.sqrt(input_num_int)) + 1):
         else:
             print(number)
 
-
 # In[ ]:
-
-
-
